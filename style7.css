@@ -1,0 +1,217 @@
+body{
+    background-color: rgba(223,246,204,255);
+}
+.box1{
+    background-color: rgba(170,195,165,255);
+    border: 10px solid rgba(4,94,85,255);
+    border-radius: 10%;
+    position: absolute;
+    top: -3rem;
+    left: -5.9rem;
+    width: 122.1rem;
+    height: 11.7rem;
+}
+.box2{
+    background-color: rgba(170,195,165,0);
+    border: 10px solid rgba(4,94,85,255);
+    border-radius: 10%;
+    position: absolute;
+    top: -3rem;
+    left: -12rem;
+    width: 59rem;
+    height: 11.7rem;
+}
+.box3{
+    background-color: rgba(170,195,165,0);
+    border: 10px solid rgba(4,94,85,255);
+    border-radius: 10%;
+    position: absolute;
+    top: -3rem;
+    left: -5.9rem;
+    width: 70.5rem;
+    height: 11.7rem;
+}
+.box4{
+    background-color: rgba(170,195,165,0);
+    border: 10px solid rgba(4,94,85,255);
+    border-radius: 10%;
+    position: absolute;
+    top: -3rem;
+    left: -5.9rem;
+    width: 88rem;
+    height: 11.7rem;
+}
+.box5{
+    background-color: rgba(170,195,165,0);
+    border: 10px solid rgba(4,94,85,255);
+    border-radius: 10%;
+    position: absolute;
+    top: -3rem;
+    left: -5.9rem;
+    width: 105rem;
+    height: 11.7rem;
+}
+h1{
+    position: absolute;
+    top: 4.55rem;
+    left: 0.8rem;
+    font-size: 3rem;
+   letter-spacing: -1px;
+}
+.Text1{
+    position: absolute;
+    top: 18rem;
+    left: 2rem;
+    border: 5px solid rgba(76,85,76,255);
+    border-radius: 1rem;
+    width: 50rem;
+    background-color: rgba(170,195,165,255);
+}
+.Text2{
+    position: absolute;
+    top: 38rem;
+    left: 2rem;
+    border: 5px solid rgba(76,85,76,255);
+    border-radius: 1rem;
+    width: 50rem;
+    height: 9rem;
+    background-color: rgba(170,195,165,255);
+}
+.Text3{
+    position: absolute;
+    top: 18rem;
+    left: 55rem;
+    border: 5px solid rgba(76,85,76,255);
+    border-radius: 1rem;
+    width: 57rem;
+    height: 19rem;
+    background-color: rgba(170,195,165,255);
+}
+
+
+
+.Knopf1{
+    position: absolute;
+    top: 30%;
+    left: 52%;
+    background-color: rgba(4,94,85,255);
+    border: 1px solid rgba(27, 31, 35, .15);
+    border-radius: 6px;
+    box-shadow: rgba(27, 31, 35, .1) 0 1px 0;
+    cursor: pointer;
+    font-size: 160%;
+    font-weight: 600;
+    line-height: 20px;
+    width: 13%;
+    height: 25%;
+}
+.Knopf2{
+    position: absolute;
+    top: 60%;
+    left: 52%;
+    background-color: rgba(4,94,85,255);
+    border:solid rgba(27, 31, 35, .15);
+    border-radius: 6px;
+    cursor: pointer;
+    font-size: 160%;
+    font-weight: 600;
+    line-height: 20px;
+    width: 13%;
+    height: 25%;
+}
+.Knopf3{
+    position: absolute;
+    top: 30%;
+    left: 68.8%;
+    background-color: rgba(4,94,85,255);
+    border: 1px solid rgba(27, 31, 35, .15);
+    border-radius: 6px;
+    box-shadow: rgba(27, 31, 35, .1) 0 1px 0;
+    cursor: pointer;
+    font-size: 160%;
+    font-weight: 600;
+    line-height: 20px;
+    width: 13%;
+    height: 20%;
+}
+.Knopf4{
+    position: absolute;
+    top: 55%;
+    left: 68.8%;
+    background-color: rgba(4,94,85,255);
+    border: 1px solid rgba(27, 31, 35, .15);
+    border-radius: 6px;
+    box-shadow: rgba(27, 31, 35, .1) 0 1px 0;
+    cursor: pointer;
+    font-size: 160%;
+    font-weight: 600;
+    line-height: 20px;
+    width: 13%;
+    height: 30%;
+}
+.Knopf5{
+    position: absolute;
+    top: 30%;
+    left: 85.5%;
+    background-color: rgba(4,94,85,255);
+    border: 1px solid rgba(27, 31, 35, .15);
+    border-radius: 6px;
+    box-shadow: rgba(27, 31, 35, .1) 0 1px 0;
+    cursor: pointer;
+    font-size:  160%;;
+    font-weight: 600;
+    line-height: 20px;
+    width: 13%;
+    height: 25%;
+}
+.Knopf6{
+    position: absolute;
+    top: 60%;
+    left: 85.5%;
+    background-color: rgba(4,94,85,255);
+    border: 1px solid rgba(27, 31, 35, .15);
+    border-radius: 6px;
+    box-shadow: rgba(27, 31, 35, .1) 0 1px 0;
+    cursor: pointer;
+    font-size: 160%;
+    font-weight: 600;
+    line-height: 20px;
+    width: 13%;
+    height: 25%;
+}.Knopf7{
+    position: absolute;
+    top: 30%;
+    left: 102%;
+    background-color: rgba(76,85,76,255);
+    border: 1px solid rgba(27, 31, 35, .15);
+    border-radius: 6px;
+    box-shadow: rgba(27, 31, 35, .1) 0 1px 0;
+    cursor: pointer;
+    font-size: 160%;
+    font-weight: 600;
+    line-height: 20px;
+    width: 13%;
+    height: 25%;
+}
+.Knopf8{
+    position: absolute;
+    top: 60%;
+    left: 102%;
+    background-color: rgba(4,94,85,255);
+    border: 1px solid rgba(27, 31, 35, .15);
+    border-radius: 6px;
+    box-shadow: rgba(27, 31, 35, .1) 0 1px 0;
+    cursor: pointer;
+    font-size: 160%;
+    font-weight: 600;
+    line-height: 20px;
+    width: 13%;
+    height: 25%;
+
+}
+.Ende{
+    position: absolute;
+    height: 9rem;
+    width: 2rem;
+    top: 0rem;
+}
